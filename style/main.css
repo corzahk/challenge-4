@@ -206,7 +206,9 @@ footer p {
     color: white;
     font-family: var(--font-one);
 }
-
+@media screen {
+    
+}
 
 
 
